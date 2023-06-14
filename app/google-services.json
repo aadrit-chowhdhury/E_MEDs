@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054529183390",
+    "firebase_url": "https://medicine-store-2e584-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medicine-store-2e584",
+    "storage_bucket": "medicine-store-2e584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054529183390:android:5ada6cfacebedf7340658f",
+        "android_client_info": {
+          "package_name": "com.talhachaudhry.medicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054529183390-80h31mqjj1ift2frj2nidj9emj0n3vca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talhachaudhry.medicine",
+            "certificate_hash": "d6009b49e277b8e978fa2fbfd84040d99c313ede"
+          }
+        },
+        {
+          "client_id": "1054529183390-60jo000no7m7j1eq121pd1tufnvcaf2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwX_9dA99fqoJTVI_qvq2imVHFQq7BN9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054529183390-60jo000no7m7j1eq121pd1tufnvcaf2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
